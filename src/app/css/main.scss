@@ -1,0 +1,9 @@
+@import "~bootstrap/scss/bootstrap";
+.container {
+  background-color: teal;
+  .hello {
+    color: tomato;
+    font-weight: 700;
+    font-size: 1em;
+  }
+}
